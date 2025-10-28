@@ -19,3 +19,5 @@ if __name__ == "__main__":
     akong_iro.tingog()
     akong_iro.adlawng_natawhan()
     print(akong_iro.ipakita_detalyado())
+
+#ge bisaya nako sir kay ana man nga translate daw kuno
